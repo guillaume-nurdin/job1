@@ -30,7 +30,7 @@ def draw_triangle(height):
 hauteur = int(input("Entrez la hauteur du triangle : "))  
 draw_triangle(hauteur)
 """
-
+###JOB3et4???
 ###JOB5
 """
 Un gardien de phare va aux toilettes cinq fois par jour. Or les WC
